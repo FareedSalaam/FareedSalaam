@@ -1,6 +1,6 @@
 ## About Me 👋
 
-<!--
+
 ### Skills i'm learning
 - react
 - piano
@@ -28,4 +28,4 @@ I like this repository because this is a app that I use and seeing the repositor
 
 ### kunjgit / GameZone
 I like seeing how many people could contribute to a open repository to share games they built.
--->
+
