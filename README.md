@@ -17,6 +17,10 @@
 - I have no pets
 -I can speak 2 languages
 
+### Current Goals
+- Create a project before summer ends
+- Have a good foundation in javascript
+- Win multiple hackathons
 
 ## The Repositories I Found Interesting
 
